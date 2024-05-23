@@ -31,6 +31,7 @@
 
 .border:hover {
   border: 1.2px solid white;
+  cursor: pointer;
 }
 /*box2*/
 
