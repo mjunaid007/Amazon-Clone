@@ -99,9 +99,6 @@ span{
     font-size: 0.7rem;
 }
 
-.nav-sec{
-    font-size: ;
-}
 
 /*Cart*/
  .nav-cart i{
@@ -207,4 +204,22 @@ font-size: 30px;
     color: white;
     height: 50px;
     font: 0.85rem;
+ }
+
+ .foot-panel2{
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+ }
+
+ .foot-panel2 p{
+    margin-top: 10px;
+ }
+
+ ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
  }
